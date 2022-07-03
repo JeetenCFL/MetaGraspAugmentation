@@ -1,0 +1,9 @@
+MetaGraspDataV1
+MetaGraspDataV1.zip
+MetaGraspV2
+MetaGraspV2.zip
+
+# the below folder has the augmented images but the json is not splited and neither is the struct the one that is required
+originalMetaGrasp-copy
+
+metagraspnetdifficulty1-easy.zip

@@ -1,0 +1,12 @@
+OKAY YOU ARE AGAIN AT A STAGE AT WHICH YOU HAVE TO CREATE THE DATASET FROM ORIGINAL DATASET
+
+
+Step 1: run the data_aug_code notebook from top to bottom
+Step 2: split the complete_int.json file 
+Step 3: run the extractFileFromSceneStruct notebook from top to bottom
+Step 4: run the renameFilesinAnno notebook from top to bottom
+Step 5: use InspectDataset notebook 
+
+
+YOU ARE DONE !!! 
+ENJOY
